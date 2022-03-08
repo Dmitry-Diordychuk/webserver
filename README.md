@@ -1,2 +1,2 @@
 # webserver
-Minimal web server on C
+Minimal web server on C++
